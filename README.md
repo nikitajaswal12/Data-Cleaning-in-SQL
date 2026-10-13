@@ -1,3 +1,7 @@
 # Data-Cleaning-in-SQL
 
-This project demonstrates typical techniques used in Data Analytics to clean raw data using SQL.
+This project demonstrates typical techniques used in Data Analytics to clean raw data using SQL. 
+
+## Script 1
+
+## Script 2

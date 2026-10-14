@@ -2,6 +2,11 @@
 
 This project demonstrates typical techniques used in Data Analytics to clean raw data using SQL. 
 
-## Script 1
+## Step 1
+Check for duplicates and remove them
 
-## Script 2
+## Step 2
+Standardize data and fix errors.
+
+## Step 3
+Find the null values.
